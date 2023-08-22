@@ -1,0 +1,14 @@
+h1,h2{
+    background-color: turquoise;
+}
+h3{
+    background-color: rgb(77, 247, 204);
+}
+body{
+    text-align: center;
+    background-color:aquamarine
+}
+li{
+    font-size: 20px;
+}
+
