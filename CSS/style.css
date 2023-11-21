@@ -1,14 +1,9 @@
-h1,h2{
-    background-color: turquoise;
+body {
+    margin-top: 70px;
+    margin-left: 100px;
+    margin-right: 100px;
 }
-h3{
-    background-color: rgb(77, 247, 204);
+img {
+    width: 200px;
+    height: 125px;
 }
-body{
-    text-align: center;
-    background-color:aquamarine
-}
-li{
-    font-size: 20px;
-}
-
